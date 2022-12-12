@@ -6,8 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/VitorArimatea">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=VitorArimatea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=7&theme=dark"/>
+ 
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Vitor-HTML" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">

@@ -1,13 +1,6 @@
 <div align="center">
   <h2>Olá! Eu sou o Vítor Oliveira Arimatéa.</h2>
 </div>
-  
-<div align="center">
-  <a href="https://github.com/VitorArimatea">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=VitorArimatea&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
 
 <div align="center" style="display:inline_block"><br>
   <h2>Tecnologias que eu utilizo 💻💙</h2>

@@ -1,22 +1,23 @@
 <div align="center">
-  <h2>Olá! Eu sou o Vítor Oliveira Arimatéa.</h2>
+  <h2>Olá mundo! Meu nome é Vítor Oliveira Arimatéa.</h2>
+  <p>Desenvolvedor de software.</p>
+  <p>Imensamente apaixonado por Games e Tecnologia!💻🎮</p>
 </div>
   
 <div align="center">
   <a href="https://github.com/VitorArimatea">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorArimatea&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=7&theme=react"/>
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=VitorArimatea&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
+  </a>
 </div>
-
+  
 <div align="center" style="display:inline_block"><br>
-  <h2>Tecnologias que eu utilizo 💻💙</h2>
-  <img align="center" alt="Vitor-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <h2>Tecnologias que eu utilizo 💙</h2>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,bootstrap&perline=4" />
+  </a>
+</p>
 </div><br>
 
 <div align="center">
@@ -25,3 +26,5 @@
 </div>
 
 ![Snake animation](https://github.com/VitorArimatea/VitorArimatea/blob/output/github-contribution-grid-snake.svg)
+
+ ![](https://komarev.com/ghpvc/?username=VitorArimatea&label=Profile+views💙&color=0f5fc6&style=flat)

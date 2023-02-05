@@ -17,7 +17,7 @@
   <h2>Tecnologias que eu utilizo 💙</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,bootstrap&perline=4" />
+    <img height="150rem" src="https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,bootstrap&perline=4" />
   </a>
 </p>  
   

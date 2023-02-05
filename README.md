@@ -19,9 +19,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,bootstrap&perline=4" />
   </a>
-</p>
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramador-gifs&psig=AOvVaw0i8nFtEglfnyiG8gI_XQ22&ust=1675686460634000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNDuk9Sw_vwCFQAAAAAdAAAAABA8">  
+</p>  
   
 </div><br>
 

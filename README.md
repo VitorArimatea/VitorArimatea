@@ -7,6 +7,7 @@
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 <div align="center">
+  <h2>Meus Stats 💙</h2>
   <a href="https://github.com/VitorArimatea">
     <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=VitorArimatea&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
@@ -14,7 +15,7 @@
 </div>
   
 <div align="center" style="display:inline_block"><br>
-  <h2>Tecnologias que eu utilizo 💙</h2>
+  <h2>Tecnologias que eu utilizo 💻💙</h2>
   <p align="center">
   <a href="https://skillicons.dev">
     <img height="150rem" src="https://skillicons.dev/icons?i=html,css,js,php,java,react,tailwind,bootstrap&perline=4" />

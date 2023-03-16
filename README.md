@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=60&duration=3250&color=FFFFFF&background=07122E&center=true&vCenter=true&width=1500&height=200&lines=Ol%C3%A1!+seja+muito+bem+vindo.+%F0%9F%99%83;Meu+nome+%C3%A9+V%C3%ADtor+Oliveira+Arimat%C3%A9a;Sou+desenvolvedor+de+software!+%F0%9F%92%99;Apaixonado+por+Games+e+Tecnologia!%F0%9F%92%BB%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=60&duration=3250&color=FFFFFF&background=07122E&center=true&vCenter=true&width=1500&height=200&lines=Ol%C3%A1!+Seja+muito+bem+vindo.+%F0%9F%99%83;Meu+nome+%C3%A9+V%C3%ADtor+Oliveira+Arimat%C3%A9a;Sou+desenvolvedor+de+software!+%F0%9F%92%99;Apaixonado+por+Games+e+Tecnologia!%F0%9F%92%BB%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 

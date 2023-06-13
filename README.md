@@ -2,11 +2,8 @@
 
 
 <div align="center">
-  <h2>Meus Stats 💙</h2>
-  <a href="https://github.com/VitorArimatea">
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=VitorArimatea&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
-  </a>
+  <h2>Linguagens mais utilizadas 💙</h2>
+   <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
 </div>
   
 <div align="center" style="display:inline_block"><br>

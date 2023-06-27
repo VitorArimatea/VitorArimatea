@@ -3,7 +3,7 @@
 <div align="center">
   <h2>Tecnologias que eu utilizo 💻💙</h2>
   <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
-  <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,prisma,mongo&perline=4" />
+  <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,prisma,mongo,mysql,firebase&perline=4" />
 </div>
 
 ![Snake animation](https://github.com/VitorArimatea/VitorArimatea/blob/output/github-contribution-grid-snake.svg)

@@ -6,9 +6,7 @@
   <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,prisma,mongo,mysql,firebase&perline=4" />
 </div>
 
-![Snake animation](https://github.com/VitorArimatea/VitorArimatea/blob/output/github-contribution-grid-snake.svg)
-
- <div align="center">
+<div align="center">
   <h2>Meu LinkedIn 💙</h2>
   <a href="https://www.linkedin.com/in/vitorarimatea/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

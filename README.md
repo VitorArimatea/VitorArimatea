@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=60&duration=3250&color=FFFFFF&background=255277&center=true&vCenter=true&width=1500&height=200&lines=Ol%C3%A1!+Seja+muito+bem+vindo+ao+meu+perfil.+%F0%9F%99%83;Meu+nome+%C3%A9+V%C3%ADtor+Arimat%C3%A9a;Sou+desenvolvedor+de+software;Completamente+Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=60&duration=3250&color=FFFFFF&background=255277&center=true&vCenter=true&width=1500&height=200&lines=Seja+muito+bem+vindo+ao+meu+perfil.+%F0%9F%99%83;Meu+nome+%C3%A9+V%C3%ADtor+Arimat%C3%A9a;Sou+um+desenvolvedor+de+software;Completamente+Apaixonado+por+Tecnologia)](https://git.io/typing-svg)
 
 <div align="center">
   <h2>Tecnologias🧑🏻‍💻</h2>

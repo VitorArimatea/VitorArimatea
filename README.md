@@ -8,7 +8,7 @@
 
 <div align="center">
   <h2>Meu LinkedIn</h2>
-  <a href="https://www.linkedin.com/in/vitorarimatea/" target="_blank">
+  <a href="https://www.linkedin.com/in/vitorarimatea/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>

@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Minha Stack</h2>
-  <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
+  <img height="160rem" width="300rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
   <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,tailwind,mysql,postgresql,mongo,redis&perline=4" />
 </div>
 

@@ -9,7 +9,7 @@
 
 <div align="center">
   <h2>My Stack</h2>
-  <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=dark"/>
+  <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
   <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,python,postgresql,mongo,redis,docker,postman&perline=4" />
 </div>
 

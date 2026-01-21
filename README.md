@@ -3,7 +3,7 @@
 
   I'm a __Software Developer in Brazil__ 🇧🇷, passionate about using technology to solve real-world problems and create impactful solutions.
 
-  __Curious and collaborative__, I approach software development with a simple philosophy: the best way to master a subject is to teach it. Beyond code, I love sharing my findings & helping others overcome obstacles. I truly believe that __"people need people".__
+  __Curious and collaborative__, I approach software development with a simple philosophy: the best way to master a subject is to teach it. Beyond code, I love sharing my findings & helping others overcome obstacles.
 
 </div>
 

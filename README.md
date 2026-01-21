@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Vítor Arimatéa</h1>
+  <h1><samp>Vítor Arimatéa</samp></h1>
 
   I'm a __Software Developer in Brazil__ 🇧🇷, passionate about using technology to solve real-world problems and create impactful solutions.
 

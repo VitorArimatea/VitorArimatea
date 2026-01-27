@@ -8,13 +8,13 @@
 </div>
 
 <div align="center">
-  <h2>My Stack</h2>
+  <h2><samp>My Stack</samp></h2>
   <img height="160rem" width="300rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
   <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,ts,python,postgresql,mongo,redis,docker,postman&perline=4" />
 </div>
 
 <div align="center">
-  <h2>Contact Me</h2>
+  <h2><samp>Contact Me</samp></h2>
   <a href="https://www.linkedin.com/in/vitorarimatea/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 

@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <h1><samp>My Stack</samp></h1>
+  <h1><samp>Tech Stack</samp></h1>
   <img height="160rem" width="300rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
   <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=java,ts,nodejs,python,express,react,nextjs,tailwind,postgresql,mongo,redis,docker&perline=4" />
 </div>

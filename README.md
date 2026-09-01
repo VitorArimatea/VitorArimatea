@@ -1,5 +1,6 @@
 <div align="center">
-  <h1><samp>Vítor Arimatéa</samp></h1>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,55:0A192F,100:1E3A8A&amp;height=220&amp;section=header&amp;text=V%C3%ADtor%20Arimat%C3%A9a&amp;fontSize=46&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer&amp;descAlignY=55&amp;descSize=18" alt="Vítor Arimatéa — Software Engineer" />
+  
 
   I'm a __Software Engineer in Brazil__ 🇧🇷, passionate about using technology to solve real-world problems and create impactful solutions.
 

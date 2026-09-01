@@ -1,7 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,55:1F6FEB,100:58A6FF&amp;height=220&amp;section=header&amp;text=V%C3%ADtor%20Arimat%C3%A9a&amp;fontSize=46&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Engineer&amp;descAlignY=55&amp;descSize=18" alt="Vítor Arimatéa — Software Engineer" />
+  <h1><samp>Vítor Arimatéa</samp></h1>
   
-
   I'm a __Software Engineer in Brazil__ 🇧🇷, passionate about using technology to solve real-world problems and create impactful solutions.
 
   __Curious and collaborative__, I approach software development with a simple philosophy: the best way to master a subject is to teach it. Beyond code, I love sharing my findings & helping others overcome obstacles.

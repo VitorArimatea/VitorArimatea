@@ -10,7 +10,7 @@
 <div align="center">
   <h1><samp>Tech Stack</samp></h1>
   <img height="160rem" width="300rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorArimatea&layout=compact&langs_count=6&theme=react"/>
-  <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=java,ts,nodejs,python,spring,react,nextjs,tailwind,postgresql,mongo,redis,docker,kubernetes,rabbitmq&perline=5" />
+  <img height="160rem" width="300rem" src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,tailwind,nodejs,pnpm,python,postgresql,mongo,redis,docker,kubernetes,rabbitmq&perline=5" />
 </div>
 
 <div align="center">
